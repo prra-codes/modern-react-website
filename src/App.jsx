@@ -11,7 +11,6 @@ import Blog from './containers/blog/Blog.jsx';
 import Footer from './containers/footer/Footer.jsx';
 import './App.css';
 
-// Reading through the CSS Handbook by Flavio Copes
 const App = () => {
   return (
     <div className="App">
