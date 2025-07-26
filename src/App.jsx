@@ -11,8 +11,6 @@ import Blog from './containers/blog/Blog.jsx';
 import Footer from './containers/footer/Footer.jsx';
 import './App.css';
 
-// going over media queries
-
 const App = () => {
   return (
     <div className="App">
