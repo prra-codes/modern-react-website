@@ -21,7 +21,7 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-container">
         <Feature
           title="Chatbots"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "
+          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
         />
         <Feature
           title="Knowledgebase"
